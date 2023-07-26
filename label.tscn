@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://cmly4o0ni6tg7"]
+
+[node name="Label" type="Label"]
+offset_left = 519.0
+offset_top = 298.0
+offset_right = 644.0
+offset_bottom = 324.0
+text = "Hello, everyone!"
